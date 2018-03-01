@@ -1,3 +1,8 @@
+body {
+    background-image: url("bacteria_mhl.png");
+    background-color: rgb(96,96,96);
+    background-position: fixed;
+}
 .container-fluid {
     background: rgb(216,216,216);
     outline: .01px double black;
@@ -6,6 +11,7 @@
 
 .jumbotron {
     text-align: center;
+    background-color: cornflowerblue;
 }
 
 .panel {
@@ -34,11 +40,6 @@
 }
 
 #piePlot {
-    width: 100%;
-    height: 100%;
-}
-
-#meter {
     width: 100%;
     height: 100%;
 }
