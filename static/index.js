@@ -56,7 +56,7 @@ function piePlot(sample){
         var values =data.map(record => record.sample_value);
 
         var trace1 = {
-            labels: otu.slice(0,10),
+            labels: +otu.slice(0,10),
             values:+values.slice(0,10),
             type: 'pie'
         }
