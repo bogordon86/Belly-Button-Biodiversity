@@ -98,7 +98,7 @@ After creating the API, I used Plotly.js to build interactive charts for the das
 I made a pie chart:
   ![PIE Chart](Images/pie_chart.png)
 
-I made a bubble chart:
+and a bubble chart:
 
   ![Bubble Chart](Images/bubble_chart.png)
 
