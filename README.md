@@ -4,6 +4,8 @@
 
 I built an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
 
+To view this website please go to https://belly-button-biodiversity86.herokuapp.com/
+
 I accomplished this task by first creating a FlasK API that hosts all of my data for the visualizations.
 
 The Flask API utilizes the following routes:
