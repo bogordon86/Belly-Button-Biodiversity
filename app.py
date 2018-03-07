@@ -4,7 +4,7 @@ import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, desc
-import pandas as pd
+
 
 #Initialize Flask
 app = Flask(__name__)
